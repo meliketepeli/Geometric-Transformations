@@ -20,30 +20,24 @@ Kod, farklı ölçeklendirme yöntemlerini (**nearest** ve **bilinear**) karşı
 
 ## 💻 Kurulum ve Çalıştırma
 
-### **Windows**
+###  🪟  **Windows**
 1. [MATLAB](https://www.mathworks.com/downloads/) indirin ve kurun.
 2. Bu projeyi indirin:
    ```bash
    git clone https://github.com/meliketepeli/Geometric-Transformations.git
-3.  ````
-    MATLAB açın, proje klasörünü Current Folder olarak seçin.
-4.  ````
-    GeometricTransformations.m dosyasını açın.
-5.  ```
-    Run butonuna tıklayın veya komut satırında: GeometricTransformations
-6. ```
-   Çıktıları adım adım ekranda görebilirsiniz.
+3. MATLAB açın, proje klasörünü seçin.
+4. GeometricTransformations.m dosyasını açın.
+5. Run butonuna tıklayın veya komut penceresine: GeometricTransformations yazın.
+6. Çıktıları adım adım ekranda görebilirsiniz.
    
 ---
 
-### **macOS**
+### 🍏 **macOS**
 1. [MATLAB](https://www.mathworks.com/downloads/) indirin ve kurun.
 2. Bu projeyi indirin:
    ```bash
    git clone https://github.com/meliketepeli/Geometric-Transformations.git
-3.  ````
-    MATLAB açın, proje klasörünü seçin.
-4.  ````
-    GeometricTransformations.m dosyasını çalıştırın.
-5. ```
-   Çıktıları adım adım ekranda görebilirsiniz.
+3.  MATLAB açın, proje klasörünü seçin.
+4.  GeometricTransformations.m dosyasını açın.
+5.  Run butonuna tıklayın veya komut penceresine: GeometricTransformations yazın.
+6.  Çıktıları adım adım ekranda görebilirsiniz.
